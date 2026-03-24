@@ -27,4 +27,4 @@ To run this code, you will need to install the following Python libraries:
 * `matplotlib`
 
 ### Results
-![Frequency spectrum showing peaks at 100Hz and 300Hz]
+![Frequency spectrum showing peaks at 100Hz and 300Hz](dft_result.png)
