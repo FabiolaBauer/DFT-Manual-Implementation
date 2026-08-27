@@ -1,6 +1,6 @@
-# Discrete Fourier Transform (DFT) From Scratch
+# Discrete Wavelet Transform (DWT) From Scratch
 
-A from-scratch Python implementation of the Discrete Fourier Transform (DFT). This repository explores the underlying mathematics of digital signal processing by manually computing Euler's formula and complex magnitudes, coding the exact logic behind standard library functions like `np.fft.fft` and `abs()`.
+A from-scratch Python implementation of the Discrete Wavelet Transform (DWT). This repository explores the underlying mathematics of digital signal processing by manually computing Euler's formula and complex magnitudes, coding the exact logic behind standard library functions like `np.fft.fft` and `abs()`.
 
 ### About the Project
 This is an academic project built for a Digital Signal Processing (DSP) class, aiming to provide a deeper understanding of the Fast Fourier Transform (FFT), its applicability, and its mathematical foundation.
